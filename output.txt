@@ -1,0 +1,30 @@
+0.5
+('mary', 2),,('gulliver', 2),,
+('gulliver', 2),,
+0
+('ship', 1),,('told', 1),,('work', 1),,
+('state', 1),,
+1
+('fastened', 1),,('body', 1),,('ground', 1),,
+('leg', 1),,('floor', 1),,('tie', 1),,
+0
+('tall', 1),,('15', 5),,('centimeter', 1),,
+('tall', 1),,('15', 5),,
+0.5
+('arrows', 1),,('shot', 1),,
+('nag', 1),,
+1
+('mary', 2),,('gulliver', 2),,
+('mary', 2),,('gulliver', 2),,
+1
+('ship', 1),,('told', 1),,('work', 1),,
+('ship', 1),,('work', 1),,('state', 1),,
+1
+('fastened', 1),,('body', 1),,('ground', 1),,
+('leg', 1),,('tie', 1),,('land', 1),,
+1
+('tall', 1),,('15', 5),,('centimeter', 1),,
+('tall', 1),,('15', 5),,('centimeter', 1),,
+1
+('arrows', 1),,('shot', 1),,
+('throw', 1),,('arrow', 1),,

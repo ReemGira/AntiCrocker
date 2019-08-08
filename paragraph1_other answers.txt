@@ -1,0 +1,3 @@
+why is it sometimes diffcult to enjoy quietness?
+A1:because of the noise of city		expected:0, elsa7:0
+A2: because of vehicles noise		expected:0,elsa7:0.5

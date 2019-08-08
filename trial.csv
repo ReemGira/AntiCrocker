@@ -1,0 +1,22 @@
+﻿answer1,answer2,,,,,question,numbers,ranges,type,studentID,degree
+gulliver to john,gulliver to jack,,,,,who,nonumbers,,story,1,1
+lilliput,lilliput town,,,,,where,nonumbers,,story,1,1
+he gave him clothes and food and freed him from chains,the king gave him clothes and food,,,,,what,nonumbers,,story,1,1
+he didn't survive,he died,,,,,what was ,nonumbers,,reading,1,2
+the number is 120,the number of countries are one hundred and twenty,,,,,what was ,accurate,[],reading,1,2
+he was fine,he was ill,,,,,what was ,nonumbers,,reading,1,2
+he was an addict,he had drugs,,,,,what was ,nonumbers,,reading,1,2
+gulliver to john,john to gulliver,,,,,who,nonumbers,,story,2,1
+lilliput,lilliput town,,,,,where,nonumbers,,story,2,1
+he gave him clothes and food and freed him from chains,the king of lilliput gave him clothes and food and freed him from chains,,,,,what,nonumbers,,story,2,1
+he was an addict,he had drugs,,,,,what was ,nonumbers,,reading,2,3
+she got married to jack,sarah got married to ben,,,,,what was ,nonumbers,,reading,2,4
+she had a red carpet,she had a red rug,,,,,what was ,nonumbers,,reading,2,2
+"A person is outdoors, on a horse.",A person on a horse jumps over a broken down airplane.,,,,,what was ,nonumbers,,reading,2,5
+gulliver to john,gulliver to john,,,,,who,nonumbers,,story,3,1
+lilliput,lilliput town,,,,,where,nonumbers,,story,3,1
+he gave him clothes and food and freed him from chains,he showed his gratitude to the king who gave him food and clothes moreover the king set gulliver free after long time of being in chains.,,,,,what,nonumbers,,story,3,1
+A married couple is sleeping.,"A woman wearing all white and eating, walks next to a man holding a briefcase.",,,,,what was ,nonumbers,,reading,3,2
+they shot one hundred and seventy pets ,they killed 166 animals,,,,,what was ,accurate,[],reading,3,2
+they killed 122 soliders,they murdered 120 men,,,,,what was ,ranged,120:125,reading,3,1
+ali had a huge bounce,sarah gave ali a big raise,,,,,what was ,nonumbers,,reading,3,0.5
