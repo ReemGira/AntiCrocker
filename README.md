@@ -11,7 +11,8 @@ For the machine module:
 There were many attempts to use a NN to get the semantic similarity score between two given statements, and because we needed also to concentrate that the student answer should be compared to the model answer, we tried to use the well-known siamese NN, with google-news pre-trained embeddings, but it gave very poor accuracy for our task. So other approaches were made. First we applied the machine learning module on the story questions to use the story pdf/text to be used as the vocabulary for the embeddings of our semantic NN, as this was our problem with google-news embeddings, as it doesn't contain all the vocabulary needed for grading an English Essay Exam. "Gulliver's Travels" was used to be the vocabulary. First attempt was by combining glove vocabulary with the vocabulary of the story we have, and with the help of the features extraceted from the rule-based module, accuracy was 50%. When using only the vocabulary of the story, with the help of features extracted from the rule-based module, accuracy reached 79%. These previous two approaches were made using gensim library. 
 Another approach was by just using the features extracted from the rule-based module, but need more time and dataset to be trained.
 
-# Data used for testing:
- Stanford dataset for ......, put the link of the dataset
- 
- 
+# Datasets used:
+ Stanford dataset for training: https://nlp.stanford.edu/projects/snli/
+ google-news Word2vec embeddings: https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit
+ GloVe: https://nlp.stanford.edu/projects/glove/
+ and finally the text of "Gulliver's Travels"
