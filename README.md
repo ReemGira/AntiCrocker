@@ -13,6 +13,9 @@ Another approach was by just using the features extracted from the rule-based mo
 
 # Datasets used:
  Stanford dataset for training: https://nlp.stanford.edu/projects/snli/
+ 
  google-news Word2vec embeddings: https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit
+ 
  GloVe: https://nlp.stanford.edu/projects/glove/
+ 
  and finally the text of "Gulliver's Travels"
